@@ -37,7 +37,7 @@
     <string name="question_four_answer_four">Mouse</string>
 
     <!--Question 5 and answer -->
-    <string name="question_five">What colour to do you get when you mix red and white?</string>
+    <string name="question_five">What colour do you get when you mix red and white?</string>
     <string name="question_five_answer_one">Red</string>
     <string name="question_five_answer_two">Pink</string>
     <string name="question_five_answer_three">Violet</string>
