@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App theme -->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#0091EA</color>
+
+    <!-- Text color for questions text -->
+    <color name="questionTextColor">#0000ff</color>
+</resources>

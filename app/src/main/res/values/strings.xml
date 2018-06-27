@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">My Quiz App </string>
+
+    <!-- Hint for user details -->
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+
+    <!-- Good luck text -->
+    <string name="good_luck">GOODLUCK!</string>
+
+    <!--Question 1 and answer -->
+    <string name="question_one">Select all the countries which are in West Africa.</string>
+    <string name="question_one_answer_one">Cameroun</string>
+    <string name="question_one_answer_two">Ethiopia</string>
+    <string name="question_one_answer_three">Senegal</string>
+    <string name="question_one_answer_four">Zambia</string>
+
+    <!--Question 2 and answer -->
+    <string name="question_two">Which of the following is used to form water?</string>
+    <string name="question_two_answer_one">Hydrogen</string>
+    <string name="question_two_answer_two">Helium</string>
+    <string name="question_two_answer_three">Carbon</string>
+    <string name="question_two_answer_four">Oxygen</string>
+
+    <!--Question 3 and answer -->
+    <string name="question_three">Which of the following countries hosted the 2002 FIFA World Cup?</string>
+    <string name="question_three_answer_one">France</string>
+    <string name="question_three_answer_two">Korea</string>
+    <string name="question_three_answer_three">Germany</string>
+    <string name="question_three_answer_four">Japan</string>
+
+    <!--Question 4 and answer -->
+    <string name="question_four">Which of the following animals is not a rodent</string>
+    <string name="question_four_answer_one">Hamster</string>
+    <string name="question_four_answer_two">Chipmunk</string>
+    <string name="question_four_answer_three">Gecko</string>
+    <string name="question_four_answer_four">Mouse</string>
+
+    <!--Question 5 and answer -->
+    <string name="question_five">What colour to do you get when you mix red and white?</string>
+    <string name="question_five_answer_one">Red</string>
+    <string name="question_five_answer_two">Pink</string>
+    <string name="question_five_answer_three">Violet</string>
+
+    <!--Question 6 and answer -->
+    <string name="question_six">Who was the ancient Greek sun god?</string>
+    <string name="question_six_answer_one">Jupiter</string>
+    <string name="question_six_answer_two">Zeus</string>
+    <string name="question_six_answer_three">Mercury</string>
+    <string name="question_six_answer_four">Apollo</string>
+
+
+    <!--Question 7 -->
+    <string name="question_seven">Java Programming Language was originally developed by?</string>
+
+    <!--Question 8 -->
+    <string name="question_eight">In Computing, the Acronym "XML" stands for?</string>
+
+    <!-- Submit button text -->
+    <string name="submit_answer">submit</string>
+
+    <!-- Reset button text -->
+    <string name="reset_button">reset</string>
+
+    <!-- Hint for questions with edit text as input field -->
+    <string name="answer_hint">answer</string>
+
+    <!-- Question number -->
+    <string name="question_one_number">1.</string>
+    <string name="question_two_number">2.</string>
+    <string name="question_three_number">3.</string>
+    <string name="question_four_number">4.</string>
+    <string name="question_five_number">5.</string>
+    <string name="question_six_number">6.</string>
+    <string name="question_seven_number">7.</string>
+    <string name="question_eight_number">8.</string>
+
+
+</resources>
