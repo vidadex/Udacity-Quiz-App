@@ -13,6 +13,7 @@ Taking an app layout from drawing to XML code.
 Creating, positioning, and styling views.
 Creating interactivity through button clicks and Java code.
 Commenting and documenting your code.
+
 Quiz App : General Knowledge App
 
 This quiz is designed to test your ability on general knowledge question in various areas
