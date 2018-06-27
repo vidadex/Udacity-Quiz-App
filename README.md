@@ -16,14 +16,3 @@ Commenting and documenting your code.
 Quiz App : General Knowledge App
 
 This quiz is designed to test your ability on general knowledge question in various areas
-
-Questions:
-
-Select all countries which are in west africa. [ CheckBox ]
-Which of the following is used to form water. [ CheckBox ]
-Which of the following countries hosted the 2002 FIFA world cup.[ CheckBox ]
-Which of the following animals is not a rodent. [ RadioButton ]
-What colour do u get when you mix red and white.[ RadioButton ]
-Who was the ancient greek sun god. [ RadioButton ]
-Java programming language was initially developed by?[ EditText ]
-In computing the acronym stands for?[ EditText ]
